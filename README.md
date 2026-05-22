@@ -298,5 +298,5 @@ Every module must be tested individually. For each module provide:
 
 | Deliverable | Deadline | Link |
 |------------|----------|------|
-| Assignment 5 — Project Files | Tuesday Morning | Link 1 |
-| Final Report | Tuesday Afternoon | Link 2 |
+| Assignment 5 — Project Files | Tuesday Morning | [Link 1](https://lms.kent.edu.au/moodle/mod/assign/view.php?id=62754) |
+| Final Report | Tuesday Afternoon | [Link 2](https://lms.kent.edu.au/moodle/mod/turnitintooltwo/view.php?id=66842) |
